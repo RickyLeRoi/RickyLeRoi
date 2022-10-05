@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web and IoT projects<br>🌱 I’m currently learning GCP and ML<br>💬 Ask me about everything<br>⚡ Fun fact, I studied nuclear energy not IT
+🔭 I’m currently working on Web and IoT projects<br>🌱 I’m currently learning GCP and ML<br>💬 Ask me about everything<br>⚡ Fun fact, I studied nuclear energy not IT<br>
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)]
 
 ## 🌐 Socials:
